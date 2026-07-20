@@ -1,0 +1,5 @@
+*.class
+*.db
+*.jks
+*.pcap
+out/
